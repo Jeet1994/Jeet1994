@@ -27,14 +27,13 @@ Welcome to my Github page!  I work for India's flagship Oil and Gas company - [I
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jeet1994&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jeet1994&show_icons=true&hide_border=true&theme=gruvbox" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
@@ -42,9 +41,8 @@ Welcome to my Github page!  I work for India's flagship Oil and Gas company - [I
 ---
 
 Major languages used in repositories:
-Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet1994&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet1994&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐️ From [Jeet1994](https://github.com/Jeet1994)
 
