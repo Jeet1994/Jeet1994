@@ -1,15 +1,6 @@
 
 # WIP
 
-Stats:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeet1994&show_icons=true&theme=dark)
-
-
-Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet1994&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Hi there 👋 I am Pragyaditya Das!
 ### **I am Into Machine Learning, Data Science, Mathematics & Control Systems Design.**
@@ -47,6 +38,13 @@ Welcome to my Github page!  I work for India's flagship Oil and Gas company - [I
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+
+---
+
+Major languages used in repositories:
+Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet1994&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐️ From [Jeet1994](https://github.com/Jeet1994)
 
