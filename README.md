@@ -1,7 +1,6 @@
 
-<br />
+
 **I am Into Machine Learning, Data Science, Mathematics & Control Systems Design.**
-<br />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeet1994&show_icons=true&theme=dark)
