@@ -1,49 +1,64 @@
 
-# WIP
+<h1  align="center">Hi 👋, I'm Pragyaditya</h1>
 
+<h3  align="center">A passionate Data Scientist and Machine Learning Enthusiast</h3>
 
-### Hi there 👋 I am Pragyaditya Das!
-### **I am Into Machine Learning, Data Science, Mathematics & Control Systems Design.**
+  
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Jeet1994/Jeet1994)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pragyaditya-das/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:daspragyaditya@gmail.com)
+<p  align="left">  <img  src="https://komarev.com/ghpvc/?username=jeet1994&label=Profile%20views&color=0e75b6&style=flat"  alt="jeet1994"  />  </p>
 
-Welcome to my Github page!  I work for India's flagship Oil and Gas company - [Indian Oil Corporation Limited](https://iocl.com/) !  
+  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<p  align="left">  <a  href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=jeet1994"  alt="jeet1994"  /></a>  </p>
 
+  
 
-#### 🌱 Things I am currently working on: 
-- Test 1
-- 
--  🚀 *coming soon*
+- 🌱 I’m currently learning **Tensorflow**
 
-#### :muscle: Things I am challenging myself with:
-- 
-- 
-- 
+  
 
+- 👯 I’m looking to collaborate on **using capsule networks for audio signal based depression detection in youngsters**
 
-#### :computer: Programming languages and tools: 
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Jeet1994&show_icons=true&hide_border=true&theme=gruvbox" />
+  
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
+- 👨‍💻 All of my projects are available at [https://github.com/Jeet1994](https://github.com/Jeet1994)
 
----
+  
 
-Major languages used in repositories:
+- 📝 I regularly write articles on [https://theknowledgebrigade.blogspot.com/](https://theknowledgebrigade.blogspot.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet1994&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 
-⭐️ From [Jeet1994](https://github.com/Jeet1994)
+- 💬 Ask me about **R Programming**
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+  
+
+- 📫 How to reach me **daspragyaditya@gmail.com**
+
+  
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/pragyaditya-das/](https://www.linkedin.com/in/pragyaditya-das/)
+
+  
+
+- ⚡ Fun fact **I want to teach Data Science to my village kids**
+
+  
+  
+  
+
+<h3  align="left">Languages and Tools:</h3>
+
+<p  align="left">  <a  href="https://canvasjs.com"  target="_blank">  <img  src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"  alt="canvasjs"  width="40"  height="40"/>  </a>  <a  href="https://cassandra.apache.org/"  target="_blank">  <img  src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg"  alt="cassandra"  width="40"  height="40"/>  </a>  <a  href="https://www.chartjs.org"  target="_blank">  <img  src="https://www.chartjs.org/media/logo-title.svg"  alt="chartjs"  width="40"  height="40"/>  </a>  <a  href="https://d3js.org/"  target="_blank">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"  alt="d3js"  width="40"  height="40"/>  </a>  <a  href="https://git-scm.com/"  target="_blank">  <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="git"  width="40"  height="40"/>  </a>  <a  href="https://www.haskell.org/"  target="_blank">  <img  src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg"  alt="haskell"  width="40"  height="40"/>  </a>  <a  href="https://www.mongodb.com/"  target="_blank">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"  alt="mongodb"  width="40"  height="40"/>  </a>  <a  href="https://opencv.org/"  target="_blank">  <img  src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"  alt="opencv"  width="40"  height="40"/>  </a>  <a  href="https://www.postgresql.org"  target="_blank">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"  alt="postgresql"  width="40"  height="40"/>  </a>  <a  href="https://www.python.org"  target="_blank">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  alt="python"  width="40"  height="40"/>  </a>  <a  href="https://pytorch.org/"  target="_blank">  <img  src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"  alt="pytorch"  width="40"  height="40"/>  </a>  <a  href="https://scikit-learn.org/"  target="_blank">  <img  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"  alt="scikit_learn"  width="40"  height="40"/>  </a>  <a  href="https://www.sqlite.org/"  target="_blank">  <img  src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"  alt="sqlite"  width="40"  height="40"/>  </a>  <a  href="https://www.tensorflow.org"  target="_blank">  <img  src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"  alt="tensorflow"  width="40"  height="40"/>  </a><a  href="https://www.r-project.org/about.html"  target="_blank">  <img  src="https://www.pngitem.com/pimgs/m/115-1152260_file-r-logo-svg-wikimedia-commons-r-programming.png"  alt="r"  width="40"  height="40"/>  </a>  </p>
+
+  
+
+<p><img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jeet1994&show_icons=true&locale=en&layout=compact"  alt="jeet1994"  /></p>
+
+  
+
+<p>&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jeet1994&show_icons=true&locale=en"  alt="jeet1994"  /></p>
+
+  
+
+<p><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=jeet1994&"  alt="jeet1994"  /></p>
